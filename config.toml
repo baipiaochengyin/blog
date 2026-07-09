@@ -1,0 +1,10 @@
+baseURL = "https://baipiaochengyin.github.io/blog/"
+languageCode = "zh-cn"
+title = "My Blog"
+theme = "papermod"
+
+[params]
+  author = "sunmingzheng"
+
+[frontmatter]
+  date = [":filename", ":default"]
